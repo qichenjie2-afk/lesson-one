@@ -5,7 +5,7 @@
 ## 步骤
 
 1. 拥有一个Github账号，并安装好git（对于windows来说是git bash）
-2. 在本地生成好新的SSH密钥，然后配置好github上的ssh key
+2. 在本地生成好新的SSH密钥，然后配置好github上的ssh key（前两步如果之前就已经完成过，就不需要再弄一遍了）
 3. fork本仓库
 4. 进到自己fork的仓库，git clone你fork的仓库到本地（注意用ssh地址而不是http地址）
 5. 在`submit`目录下新建markdown文件并修改 **（注意不要直接修改问题文件`one.md`，而是新建一个你自己的文件）**
